@@ -30,3 +30,7 @@ python manage.py runserver
 #the coverage is still bellow acceptance
 
 #although the endpoint to get all the valid equipments by vessel is implemented, I forgot to write the test
+
+# Security Concerns
+
+#The security_key of my project was deployed here, i didn't bother put on my .env file to help those looking at this project, but in a real-life application, NEVER expose your security_key folks
